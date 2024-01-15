@@ -1,0 +1,208 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1140px;
+    margin: 0px auto;
+}
+
+header{
+    background-color: #53AFDD;
+}
+
+.reklama-ovr{
+    display: flex;
+}
+
+.reklama-ovr li{
+list-style-type: none;
+margin-right: 30px;
+}
+
+.reklama-ovr li a{
+    text-decoration: none;
+    color: #25468A;
+    text-align: center;
+}
+
+
+.header-right {
+    display: flex;
+    margin-left: 420px;
+    margin-top: 20px;
+}
+
+
+
+.header-right li a:hover{
+    padding: 9px 18px 9px 18px;
+    background-color: white;
+    color: #14274C;
+    width: auto;
+    border-radius: 24px;
+}
+.Handbrake{
+    color: #25468A;
+    font-family: Roboto;
+    font-size: 92px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.text{
+        color: #3B4A6B;
+        font-family: Roboto;
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+}
+.text2{
+        color: #3B4A6B;
+        font-family: Roboto;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+}
+.btn{
+    text-decoration: none;
+}
+.btn:hover{
+    padding: 15px 85px 15px 85px;
+    background-color: #F7BA0E;
+    color: #3B4A6B;
+    width: auto;
+    border-radius: 24px
+}
+.header-right2 {
+    display: flex;
+    margin-left: 650px;
+    margin-top: -256px;
+}
+.theradius{
+    padding: 69;
+    padding-bottom: 68;
+    padding-right: 34;
+    padding-left: 34;
+    background-color: #1391CE;
+    width: auto;
+    border-radius: 8px;
+}
+.herro{
+        color: #1391CE;
+        margin-top: 63px;
+        text-align: center;
+        font-family: Inter;
+        font-size: 36px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 121.3%;
+        letter-spacing: 0.36px;
+}
+.a{
+    text-align: center;
+}
+.first-list{
+            color: #25468A;
+            font-family: Inter;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 134.3%;
+            /* 21.488px */
+            letter-spacing: 0.16px;
+            text-transform: uppercase;
+        
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+}
+
+.center{
+    background-color: #1391CE;
+    margin-left: 5%;
+    border-radius: 8px;
+}
+
+.center p{
+    padding: 68px 34px;
+}
+
+
+
+.herro2{
+        color: #1391CE; 
+        font-family: Inter;
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 134.3%;
+        /* 42.976px */
+        letter-spacing: 0.32px;
+}
+.text3{
+        color: var(--Gray-2, #4F4F4F);
+        font-family: Inter;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 134.3%;
+        /* 24.174px */
+        letter-spacing: 0.36px;
+        list-style-type: none;
+}
+.header-part3{
+    
+        margin-left: 740px;
+        margin-top: -456px;
+}
+.MVF{
+    color: #25468A;
+    
+        font-family: Inter;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 134.3%;
+        /* 21.488px */
+        letter-spacing: 0.16px;
+        text-transform: uppercase;
+}
+.p2{
+     margin-top: 280px;
+}
+.outputs{
+        color: #1391CE;
+        font-family: Inter;
+        font-size: 22px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 134.3%;
+        /* 29.546px */
+        letter-spacing: 0.44px;
+}
+.inputs{
+    display: flex;
+        margin-left: 575px;
+        margin-top: -480px;
+}
+.H{
+        margin-left: 640px;
+        margin-top: -480px;
+        
+}
+
+
+
+
+.nm{
+   background-color: #1391CE;
+}
+
+
